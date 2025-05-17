@@ -1,0 +1,12 @@
+name: himalayan-exp-demo
+title: himalayan-exp-demo
+username: satkar605
+account: satkar605
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14771404
+bundleId: 10296923
+url: https://satkar605.shinyapps.io/himalayan-exp-demo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
